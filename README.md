@@ -1,2 +1,4 @@
 # hello-world
-first project
+Hi GitHub,
+
+I am new here, but I expect a lot from this site...
